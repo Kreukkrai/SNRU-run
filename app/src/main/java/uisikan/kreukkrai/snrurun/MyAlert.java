@@ -12,6 +12,7 @@ public class MyAlert {
                           String strTitle,
                           String strMessage) {
         AlertDialog.Builder builder = new AlertDialog.Builder(context);
+
     }
 
 }//Main Class
